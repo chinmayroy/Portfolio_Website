@@ -17,12 +17,13 @@ This project was developed using the following technologies:
 
 The website includes the following features:
 
-    Responsive design that adjusts to different screen sizes
-    Navigation bar with links to different sections of the website
-    About section with a brief introduction of the developer
-    Skills section showcasing my technical skills
-    Projects section highlighting some of my notable projects
-    Contact form for visitors to send messages to me
+- Responsive design that adjusts to different screen sizes
+- Navigation bar with links to different sections of the website
+- About section with a brief introduction of the developer
+- Skills section showcasing my technical skills
+- Projects section highlighting some of my notable projects
+- Contact form for visitors to send messages to me
+
 
 ## Contributing
 
@@ -34,8 +35,8 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 If you have any questions or want to collaborate with me, you can reach me through the following channels:
 
-    Email: [chinmayroycom@gmail.com]
-    Twitter: [chinmayroycom]
+- Email: [chinmayroycom@gmail.com]
+- Twitter: [chinmayroycom]
 
 ## Conclusion
 
